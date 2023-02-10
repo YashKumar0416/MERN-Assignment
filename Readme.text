@@ -1,0 +1,20 @@
+Frontend Dependencies :
+    "bootstrap": "^5.2.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+
+Backend Dependencies :
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.1",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.20"
+
+Mongodb needs to be configured in order to run the app.
